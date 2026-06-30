@@ -1,0 +1,6 @@
+{
+  "name": "Tic Tac Toe",
+  "description": "A simple, modern, and beautiful Tic Tac Toe game with smooth animations, responsive layout, and glassmorphism-inspired design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
