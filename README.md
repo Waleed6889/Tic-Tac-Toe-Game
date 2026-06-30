@@ -23,10 +23,6 @@ https://waleed-tic-tac-toe.netlify.app/
 - CSS3
 - JavaScript
 
-## 📸 Preview
-
-(Add screenshot here)
-
 ## 👨‍💻 Author
 
 Waleed
